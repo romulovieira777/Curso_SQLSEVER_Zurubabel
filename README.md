@@ -1,2 +1,2 @@
-# Curso_SQLSEVER_Zurubabel
+# Curso SQLSEVER Zurubabel
 Curso de SqlSever
